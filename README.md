@@ -1,2 +1,2 @@
 # MicroserviceDemo
-Simple fuzzy matching microservice for FileMaker
+Simple fuzzy-matching microservice for FileMaker
